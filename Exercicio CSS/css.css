@@ -1,0 +1,46 @@
+
+body {
+    background-color: ivory;
+    color: rgb(70, 69, 69);
+    font-family: Arial, sans-serif;
+}
+
+#entretenimento {
+    display: flex;
+    background-color: lightgray;
+}
+#tecnologia {
+    background-color: beige;
+    color: rgb(70, 69, 69);
+    font-family: Arial, sans-serif;
+}
+
+section {
+    border: 1px solid black;
+    padding: 10px;
+    color: rgb(70, 69, 69);
+    font-family: Arial, sans-serif;
+}
+
+h2 {
+    margin-bottom: 20px;
+    color: rgb(70, 69, 69);
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    display: flex;
+}
+
+.item {
+    background-color: lightgray;
+    border: 1px solid black;
+    padding: 10px;
+    margin: 10px;
+    color: rgb(70, 69, 69);
+    font-family: Arial, sans-serif;
+}
+
+img {
+    max-width: 200px;
+}
